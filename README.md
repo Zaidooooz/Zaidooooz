@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width="780" height="1014" alt="Image" src="https://github.com/user-attachments/assets/c940c482-0b79-412d-8ec0-e0762090626a" />
+<img width="320" height="320" alt="Image" src="https://github.com/user-attachments/assets/2ccd43a1-4416-4d8f-a9a9-20b2e508a607" />
 <!--
 **Zaidooooz/Zaidooooz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
