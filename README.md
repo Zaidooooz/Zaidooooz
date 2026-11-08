@@ -24,7 +24,7 @@ I have years of video editing experience, which started as a hobby while watchin
 <table align="left">
   <tr>
     <td width="50%" align="center">
-      <img width="320" height="320" alt="Image" src="https://github.com/user-attachments/assets/75ceeca0-44fe-4ebe-9c43-41a0422d74aa" />
+      <img width="320" height="320" alt="Image" src="https://github.com/user-attachments/assets/c8763542-f2f3-46e7-a178-ba0c989bb805" />
     </td>
     <td width="50%" align="center">
       <h3>📫 Find me here</h3>
