@@ -1,4 +1,4 @@
-<img width="850" height="320" alt="Image" src="https://github.com/user-attachments/assets/389719c8-d95a-422b-829b-512b3d6d8c7e" />
+<img width="850" height="320" alt="Image" src="https://github.com/user-attachments/assets/de1c8a92-53b2-4e77-9dad-89faa7973c2d" />
 
 <h1 align="center">Hi, I'm Zaid 👋</h1>
 
