@@ -44,4 +44,4 @@ I have years of video editing experience, which started as a hobby while watchin
     
   </tr>
 </table>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zaidooooz&theme=sakura-x" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zaidooooz&theme=transparent" alt="GitHub Streak" /></a>
